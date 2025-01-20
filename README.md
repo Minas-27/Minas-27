@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Minas-27 (Abraham Addisu)
+# 👋 Hi, I’m Abraham Addisu (Minas-27)
 
 - 👀 I’m interested in software development, problem-solving, and contributing to open-source projects.
 - 🌱 I’m currently mastering Java programming and working on Android development.
